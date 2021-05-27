@@ -1,5 +1,4 @@
 # Mobile-Sonic-Runner
-
 Estudar:
 Criar um jogo do gênero Runner para Mobile.
 
