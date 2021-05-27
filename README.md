@@ -14,4 +14,6 @@ O objetivo foi estudar a mecânica e como criar para Mobile utilizando a Unity.
 ![image](https://user-images.githubusercontent.com/47865897/119902544-bfeeff00-bf1d-11eb-8273-df06e18347fb.png)
 
 
-![image](https://user-images.githubusercontent.com/47865897/119902626-e2811800-bf1d-11eb-9615-06b5a5c9304a.png)
+O tutorial que assistir para estudar
+勉強するために見たチュートリアル
+https://www.youtube.com/watch?v=nc0rEUrlnCE
